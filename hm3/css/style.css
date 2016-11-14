@@ -1,5 +1,5 @@
 .box {
-	background: url(../img/back.jpg) no-repeat center;
+	background: url(../img/back.jpg) repeat center;
 	background-size: auto; 
 	padding: 3% 20% 2%;
 	overflow: auto;
