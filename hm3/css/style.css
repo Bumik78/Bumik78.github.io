@@ -1,6 +1,6 @@
 .box {
-	background: url(../img/back.jpg) fixed no-repeat center center;
-	background-size: 100%; 
+	background: url(../img/back.jpg) repeat-y center center;
+	background-size: auto; 
 	padding: 3% 20% 2%;
 	overflow: auto;
 }
